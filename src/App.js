@@ -22,8 +22,8 @@ const projects = [
     title: '목장바로',
     videoUrl: 'https://www.youtube.com/embed/Tb2jnu8HWb8',
     subject: '농산물 가격추이 시세 정보 분석 기반의 농산물 직거래 시스템',
-    description: '복잡한 유통 구조를 축소함으로써 소규모 축산 농가와 소상공인을 직접 연결하는 온라인 플랫폼입니다 .',
-    period: '2025.07.28 - 2025.08.14',
+    description: '복잡한 유통 구조를 축소하여 소규모 축산 농가와 소상공인을 직접 연결하는 온라인 플랫폼입니다 .',
+    period: '2025.08.21. ~ 2025.09.12',
     technologies: ['HTML', 'CSS', 'JavaScript', 'React', 'Java', 'Spring', 'REST API', 'OracleDB', 'Git'],
   },
 ];
